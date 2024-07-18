@@ -33,6 +33,8 @@ function draw(){
     image(bulbasaurImage, 200,200,100,100);
     image(squirtleImage, 300,200, 100,100);
     image(charmanderImage, 100,200,100,100);
+
+    // make a change
 }
 
 function mouseClicked(){
